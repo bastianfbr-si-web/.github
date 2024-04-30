@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src='./assets/hopla_bg.png' alt='Hopla - Reconditionneur de smartphones made in Alsace' width='300px'>
+  <img src='./profile/assets/hopla_bg.png' alt='Hopla - Reconditionneur de smartphones made in Alsace' width='300px'>
 </h1>
 <p align="center">
   📱 <strong>Bienvenue chez Hopla</strong>, le reconditionneur de smartphones made in Alsace ! 🌿
@@ -11,20 +11,20 @@ Nous sommes passionnés par la technologie durable et nous nous engageons à don
 ## 🌐 Accueil
 
 <p align="center">
-  <img src='./assets/home.png' alt='Accueil Hopla'>
+  <img src='./profile/assets/home.png' alt='Accueil Hopla'>
 </p>
 Découvrez notre interface d'accueil conviviale qui facilite votre navigation et votre accès à une technologie durable.
 
 ## 📝 Inscription
 
 <p align="center">
-  <img src='./assets/inscription.png' alt='Inscription chez Hopla'>
+  <img src='./profile/assets/inscription.png' alt='Inscription chez Hopla'>
 </p>
 Rejoignez notre communauté en quelques clics. L'inscription est simple et rapide, ouvrant la porte à des offres exclusives et à la possibilité de contribuer à un environnement plus vert.
 
 ## 📱 Smartphones
 
 <p align="center">
-  <img src='./assets/smartphones.png' alt='Sélection de smartphones chez Hopla'>
+  <img src='./profile/assets/smartphones.png' alt='Sélection de smartphones chez Hopla'>
 </p>
 Explorez notre vaste sélection de smartphones reconditionnés. Trouvez le téléphone qui correspond à vos besoins et à votre budget sans compromettre la qualité ou la performance.
